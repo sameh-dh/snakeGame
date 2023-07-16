@@ -1,20 +1,20 @@
 ﻿Snake
-1.0.0.0
+
 
 winexe
 C#
 .cs
-C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\snakeGame\Snake\Snake\obj\Debug\net6.0-windows\
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\snakeGame\Snake\Snake\obj\Release\net6.0-windows\
 Snake
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\snakeGame\Snake\Snake\App.xaml
 11407045341
 
-9-152419365
+6-543284911
 1942007414746
 MainWindow.xaml;
 
-False
+True
 
